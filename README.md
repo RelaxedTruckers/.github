@@ -1,4 +1,4 @@
-<p align="center"><a href="https://rtlvtc.com.com" target="_blank"><img src="https://rtlvtc.com/assets/img/logo.png" width="400"></a></p>
+<p align="center"><a href="https://rtlvtc.com.com" target="_blank"><img src="https://cdn.discordapp.com/attachments/484135525591154692/925856752828813312/new1.png" width="400"></a></p>
 
 ## About RelaxedTruckers
 Relaxed Truckers Logistics is a fun and friendly VTC for all to join.
